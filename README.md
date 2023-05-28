@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Russia</h3>
 <img align="right" alt="coding" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmM0Nzc1NzNiMWQyYTkwM2FiM2IwZTVkMDM3MzJlNzk4YTFlMWY5MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2IudUHdI075HL02Pkk/giphy.gif">
 
-- 🌱 I’m currently learning **React**
+🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
